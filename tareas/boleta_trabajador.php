@@ -1,4 +1,10 @@
 <?php
+// ============================================
+// BOLETA DE PAGO - MINIMARKET MASS
+// Trabajador: Carlos Eduardo Mamani Quispe
+// Periodo: Mayo 2026
+// Autor: [Tu nombre completo]
+// ============================================
 
 // ============================================
 // 1. DATOS DEL TRABAJADOR
