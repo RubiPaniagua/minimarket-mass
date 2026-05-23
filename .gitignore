@@ -1,3 +1,5 @@
+#gitignore
+
 # Configuración local sensible
 .env
 .env.local
