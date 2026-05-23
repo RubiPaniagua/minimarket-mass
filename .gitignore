@@ -1,0 +1,18 @@
+# Configuración local sensible
+.env
+.env.local
+
+# Dependencias
+/vendor/
+/node_modules/
+
+# Editor
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
