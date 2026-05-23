@@ -1,4 +1,4 @@
-#gitignore
+#gitignore#
 
 # Configuración local sensible
 .env
